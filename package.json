@@ -1,0 +1,21 @@
+{
+    "name": "node-step-flow",
+    "version": "1.0.0",
+    "description": "Step Flow for Node.js, Inspired from AWS Step Function",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mseld/node-step-flow.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mseld/node-step-flow/issues"
+    },
+    "homepage": "https://github.com/mseld/node-step-flow#readme"
+  }
+  
